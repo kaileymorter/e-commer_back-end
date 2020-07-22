@@ -11,7 +11,7 @@
   * [Usage](#usage)
   * [Credits](#credits)
   * [License](#license)
-  * [Tests](#tests)
+  * [Video](#video)
   * [Questions](#questions)
   
   ## User Story
@@ -52,9 +52,9 @@
   Unlicense
 
   ## Contributing:
-  
+  https://www.contributor-covenant.org/
 
-  ## Tests:
+  ## Video:
   
 
   ## Questions:
