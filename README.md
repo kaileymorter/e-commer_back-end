@@ -1,16 +1,22 @@
-# E-Commerce Backend
+# E-Commerce Backend Challenge
   [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
   ## Description:
-  The back end for an e-commerce site. You’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
+  This is the back end code for an e-commerce site that tracks products, tags, and categories.
 
   ## Table of Contents:
+  * [User Story](#user-story)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Credits](#credits)
   * [License](#license)
   * [Tests](#tests)
   * [Questions](#questions)
+  
+  ## User Story
+  AS A manager at an internet retail company
+  I WANT a back end for my e-commerce website that uses the latest technologies
+  SO THAT my company can compete with other e-commerce companies
 
   ## Installation
   Install NPM; MySQL2; Sequelize; dotenv
